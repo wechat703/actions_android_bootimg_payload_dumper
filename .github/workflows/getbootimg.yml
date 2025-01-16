@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cdnorg.d.miui.com/OS1.0.20.0.UNNCNXM/miui_ROTHKO_OS1.0.20.0.UNNCNXM_dea22370a9_14.0.zip
+  ROM_URL: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f1e039a07f5d0388097811beb3d74597/component-ota/24/12/27/d60c2244dd7e47079b66925bdd693c5b.zip
   TZ: Asia/Shanghai
 
 jobs:
